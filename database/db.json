@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "YC Blog Project ",
+      "detail": "About YC and courses in YC ",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "LJA Homework",
+      "detail": "Speaking Test and Writing Test",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Winter YC 2",
+      "detail": "Secrets of the millionaire mind ",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
